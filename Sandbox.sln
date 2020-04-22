@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet_az_func_api", "dotnet_az_func_api\dotnet_az_func_api.csproj", "{2D51CF7F-8BA3-4883-B41D-02A7B2277EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandboxOne", "SandboxOne\SandboxOne.csproj", "{D64F04F4-80E7-477C-8FAE-AFE809225E9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DevExtreme NuGet.config", "DevExtreme NuGet.config", "{63A60569-C881-4E41-8D35-7CEADF042C5F}"
+	ProjectSection(SolutionItems) = preProject
+		NuGet.config = NuGet.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D51CF7F-8BA3-4883-B41D-02A7B2277EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D51CF7F-8BA3-4883-B41D-02A7B2277EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D51CF7F-8BA3-4883-B41D-02A7B2277EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D51CF7F-8BA3-4883-B41D-02A7B2277EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D64F04F4-80E7-477C-8FAE-AFE809225E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64F04F4-80E7-477C-8FAE-AFE809225E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64F04F4-80E7-477C-8FAE-AFE809225E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64F04F4-80E7-477C-8FAE-AFE809225E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {088D7AF6-D95E-4190-A7B4-FA68E7F24EFD}
+	EndGlobalSection
+EndGlobal

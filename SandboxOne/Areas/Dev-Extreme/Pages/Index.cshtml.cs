@@ -11,6 +11,7 @@ namespace SandboxOne.Areas.Dx.Pages
     {
         public void OnGet()
         {
+
         }
     }
 }

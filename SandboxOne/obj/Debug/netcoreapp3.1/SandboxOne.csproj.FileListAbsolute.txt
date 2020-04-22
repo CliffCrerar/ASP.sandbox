@@ -401,5 +401,6 @@ C:\Users\cliff\source\repos\Sandbox\SandboxOne\bin\Debug\netcoreapp3.1\DevExtrem
 C:\Users\cliff\source\repos\Sandbox\SandboxOne\bin\Debug\netcoreapp3.1\DevExtreme.AspNet.Data.dll
 C:\Users\cliff\source\repos\Sandbox\SandboxOne\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\cliff\source\repos\Sandbox\SandboxOne\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
-C:\Users\cliff\source\repos\Sandbox\SandboxOne\obj\Debug\netcoreapp3.1\Razor\Pages\Dx\index.cshtml.g.cs
-C:\Users\cliff\source\repos\Sandbox\SandboxOne\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_DevExtremeLayout.cshtml.g.cs
+C:\Users\cliff\source\repos\Sandbox\SandboxOne\obj\Debug\netcoreapp3.1\Razor\Areas\Dev-Extreme\Pages\Index.cshtml.g.cs
+C:\Users\cliff\source\repos\Sandbox\SandboxOne\obj\Debug\netcoreapp3.1\Razor\Areas\Dev-Extreme\Pages\shared\_DevExtremeLayout.cshtml.g.cs
+C:\Users\cliff\source\repos\Sandbox\SandboxOne\obj\Debug\netcoreapp3.1\Razor\Controllers\_ViewStart.cshtml.g.cs

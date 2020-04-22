@@ -11,6 +11,7 @@ using Microsoft.Extensions.Hosting;
 using FluentValidation.AspNetCore;
 using SandboxOne.Models;
 using FluentValidation;
+using DevExtreme;
 
 namespace SandboxOne
 {
@@ -32,8 +33,9 @@ namespace SandboxOne
                     fv.RunDefaultMvcValidationAfterFluentValidationExecutes = false;
                     fv.RegisterValidatorsFromAssemblyContaining<PersonValidator>();
                 }
-            ); // add fluent validation
+            ); // add fluent validation 
             services.AddTransient<IValidator<Person>, PersonValidator>();
+            // services.Add<>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

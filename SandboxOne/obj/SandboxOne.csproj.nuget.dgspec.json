@@ -14,6 +14,7 @@
         "outputPath": "C:\\Users\\cliff\\source\\repos\\Sandbox\\SandboxOne\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
+          "C:\\Users\\cliff\\source\\repos\\Sandbox\\NuGet.Config",
           "C:\\Users\\cliff\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -24,6 +25,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "E:\\_applications\\_dex\\Components\\System\\Components\\Packages": {},
+          "E:\\_applications\\_dex\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
